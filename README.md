@@ -7,9 +7,13 @@ This is a hacked together system for automated daily GDELT report generation bui
 
 Once the program is up and running, it will do five things:
 1. Wake up the computer.
+
 2. Download today’s GDELT data from the webpage.
+
 3. Load it into a database.
+
 4. Run the report script
+
 5. Create the complete document
 
 Setup
