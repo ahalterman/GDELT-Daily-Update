@@ -1,0 +1,1 @@
+5 6 * * * ~/GDELT/gdelt-daily-report.sh | mail -s "GDELT_Daily_Update_Log" <youraddress@domain.com>
